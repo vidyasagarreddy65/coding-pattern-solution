@@ -1,0 +1,22 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IDE configs
+.idea/
+*.iml
+
+# Ignore build outputs
+/build/
+.gradle/
+
+# Ignore system files
+*.log
+.DS_Store
+
+# Ignore shell profiles
+.zprofile
+.zshrc
+.bashrc
